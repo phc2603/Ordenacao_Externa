@@ -1,6 +1,6 @@
 Projeto sobre ordenação externa, feito na discplina Algoritmo e Estrutura de Dados III.
 
-O projeto contém uma base de dados importada do site Kaggle, sobre filmes da netflix, contendo informações como elenco, título, diretor e etc;<br>
+O projeto contém uma base de dados importada do site Kaggle, sobre filmes da netflix, contendo informações como elenco, título, diretor e etc;<br><br>
 Como o enfoque é criar um modelo de estrutura de dados para regir dados massivos, essa base de dados é convertida para o formato .db;<br>
 O CRUD, serve para atualizar, criar, deletar ou ler os registros do arquivo da base de dados, já em formato .db;<br>
 A Ordenação Externa é a estrutura de dados, baseada na intercalação balanceada de 2 caminhos, para fazer a ordenção da base de dados;
