@@ -398,6 +398,6 @@ try:
         os.remove("arq4.db")
 except Exception:
     pass
-
-x = GUI()
-jpype.shutdownJVM()
+finally:
+    x = GUI()
+    jpype.shutdownJVM()
